@@ -10,7 +10,7 @@ TEXT = 'Motion is detected'
 
 #GMAIL user setup
 gmail_sender = 'kofiawuah.@gmail.com'
-gmail_passwd = 'zulu489er'
+gmail_passwd = 'hiuyufytc'
 
 #GMAIL stuff to login
 server = smtplib.SMTP('smtp.gmail.com', 587)
